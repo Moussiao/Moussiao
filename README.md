@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a junior Python developer
+<br /><br />
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Moussiao/1f89a896-654f-44b9-8943-1b5050a74f53.png" width="600" height="400"/></a>
 <br /><br />
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Moussiao/a0750ed6-4bcf-4b55-8103-e0df18aae4de.png" width="600" height="400"/></a>
